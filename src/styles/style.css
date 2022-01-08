@@ -1400,7 +1400,11 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   margin: 0 -30px;
-  padding: 0; }
+  padding: 0; 
+  padding-top: 60px;
+
+}
+  
   .projects li {
     width: 50%;
     display: inline-block;
@@ -3422,6 +3426,9 @@ padding-top: 20px;
   margin-top: 20px;
 }
 
+.top-header{
+
+}
 
 
 /*# sourceMappingURL=style.css.map */

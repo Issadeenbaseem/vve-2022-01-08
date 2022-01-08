@@ -5,20 +5,27 @@ function ServiceBody2() {
     <div>
       
      <section className="content-section ">
+     <div >
+     
+      </div>
+   
       
   <div className="container">
 
     <div className="row">
-    <h2 className="top-header">Verticals of focus and specialization</h2>
+
+      
 		<div className="col-12">
 
-     
+    <h1 className="top-header">Verticals of focus and specialization</h1>
    
 		
 		</div>
+    
 
 	  	<div className="col-md-12">
 			<ul className="projects">
+        
 
         <li>
         <figure className="project-box"> <img src="/images/s1.jpg" alt="Image" />
